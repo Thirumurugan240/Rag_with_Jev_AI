@@ -1,0 +1,12 @@
+streamlit
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+sentence-transformers
+faiss-cpu
+rank-bm25
+typesafe-sdk
+python-dotenv
+pypdf
